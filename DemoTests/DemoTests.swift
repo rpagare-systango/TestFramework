@@ -1,14 +1,15 @@
 //
-//  TestFrameworkTests.swift
-//  TestFrameworkTests
+//  DemoTests.swift
+//  DemoTests
 //
 //  Created by stplmacmini14 on 30/11/18.
 //  Copyright © 2018 stplmacmini14. All rights reserved.
 //
 
 import XCTest
+@testable import Demo
 
-class TestFrameworkTests: XCTestCase {
+class DemoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
