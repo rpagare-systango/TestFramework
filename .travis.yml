@@ -1,5 +1,7 @@
 language: swift
 osx_image: xcode9.2
+script:
+- xcodebuild -scheme TestFramework -workspace TestFramework.xcworkspace
 deploy:
   provider: script
   script: ./scripts/push.sh
