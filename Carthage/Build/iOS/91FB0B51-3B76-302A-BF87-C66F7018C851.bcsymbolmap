@@ -1,0 +1,41 @@
+BCSymbolMap Version: 2.0
+_swift_rt_swift_getExistentialTypeMetadata
+_swift_rt_swift_allocObject
+_swift_rt_swift_getInitializedObjCClass
+_swift_rt_swift_slowAlloc
+_swift_rt_swift_slowDealloc
+__T0s23_ContiguousArrayStorageCyypGML
+__T0ypML
+__T013TestFrameworkAACML
+__T013TestFrameworkAACMf
+__T013TestFrameworkAACMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_TestFramework
+__swift_FORCE_LOAD_$_swiftFoundation_$_TestFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_TestFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_TestFramework
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_TestFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_TestFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_TestFramework
+__swift_FORCE_LOAD_$_swiftCoreImage_$_TestFramework
+__swift_FORCE_LOAD_$_swiftMetal_$_TestFramework
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_TestFramework
+___swift_reflection_version
+_objc_classes
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+-emit-bc /Users/stplmacmini14/DesktopBackup/Temp2/TestFramework/TestFramework/TestFramework.swift -target arm64-apple-ios11.2 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -I /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Products/Release-iphoneos -F /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Products/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/ModuleCache -swift-version 4 -serialize-debugging-options -report-errors-to-debugger -Xcc -I/Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/TestFramework-generated-files.hmap -Xcc -I/Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/TestFramework-own-target-headers.hmap -Xcc -I/Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/TestFramework-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/TestFramework-project-headers.hmap -Xcc -I/Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Products/Release-iphoneos/include -Xcc -I/Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/DerivedSources/arm64 -Xcc -I/Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/stplmacmini14/DesktopBackup/Temp2/TestFramework -emit-module-doc-path /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/Objects-normal/arm64/TestFramework.swiftdoc -serialize-diagnostics-path /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/Objects-normal/arm64/TestFramework.dia -O -parse-as-library -module-name TestFramework -emit-module-path /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/Objects-normal/arm64/TestFramework.swiftmodule -emit-objc-header-path /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/Objects-normal/arm64/TestFramework-Swift.h -emit-dependencies-path /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/Objects-normal/arm64/TestFramework.d -num-threads 4 -o /Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/Objects-normal/arm64/TestFramework.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/stplmacmini14/DesktopBackup/Temp2/TestFramework
+Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)
+/Users/stplmacmini14/DesktopBackup/Temp2/TestFramework/TestFramework/TestFramework.swift
+_T013TestFrameworkAACMa
+TestFramework.swift
+/Users/stplmacmini14/DesktopBackup/Temp2/TestFramework/TestFramework
+get_field_types_TestFramework
+deinit
+logToConsole
+_allocateUninitializedArray
+_T0Sa13_adoptStorageSayxG_SpyxGts016_ContiguousArrayB0CyxG_Si5counttFZyp_Tg5
+_T0Sa13_adoptStorageSayxG_SpyxGts016_ContiguousArrayB0CyxG_Si5counttFZTfq4gnn_nyp_Tg5
+_T0s23_ContiguousArrayStorageCyypGMa
+_T0ypMa
+/Users/stplmacmini14/Library/Developer/Xcode/DerivedData/TestFramework-aqorztcegfwzqtdqdprzouhljhrv/Build/Intermediates.noindex/TestFramework.build/Release-iphoneos/TestFramework.build/DerivedSources/TestFramework_vers.c
